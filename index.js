@@ -1,5 +1,3 @@
-
-
 const dodger = document.getElementById('dodger');
 
 function moveDodgerLeft() {
@@ -31,4 +29,3 @@ document.addEventListener("keydown", function (e) {
     }
 });
   
-
